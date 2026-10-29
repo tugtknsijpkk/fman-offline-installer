@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-File+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 fman Free Installer** — fman is a dual-pane file manager for Windows, macOS, and Linux with a keyboard-driven interface and a plugin system. Works without internet access, no account required. Full offline installation.
+**💻 fman Free Installer** — fman is a fast, cross-platform dual-pane file manager for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About fman
 
-fman is a dual-pane file manager for Windows, macOS, and Linux with a keyboard-driven interface and a plugin system. Inspired by Sublime Text, it provides a fast, extensible file management experience with Python plugin support.
+fman is a fast, cross-platform dual-pane file manager for Windows, macOS, and Linux. With keyboard-driven navigation, a Python plugin system, and a command palette, fman targets developers and power users who want efficient file management. Its clean interface, quick launch from terminal, and extensible architecture make it a favorite among programmers who spend significant time managing files.
 
 ---
 
 ## ❌ Problem: fman is hard to access
 
-- **Paid License** — Requires purchase for continued use after trial
-- **Minimal Default Features** — Core app is intentionally minimal; requires plugins for many features
-- **Plugin Ecosystem Size** — Smaller plugin library than Total Commander
-- **Learning Curve** — Keyboard-centric workflow requires learning shortcuts
+- **Commercial License** — Paid software after trial period
+- **Developer-Focused** — Interface optimized for keyboard power users, not casual users
+- **Plugin Ecosystem** — Limited official plugins; relies on community contributions
+- **Mobile Sync** — No mobile companion application
 
 ---
 
@@ -121,7 +121,7 @@ fman is a dual-pane file manager for Windows, macOS, and Linux with a keyboard-d
 
 ---
 
-**fman Free Installer** — fman is a dual-pane file manager for Windows, macOS, and Linux with a keyboard-driven interface and a plugin system. Install without internet connection today!
+**fman Free Installer** — fman is a fast, cross-platform dual-pane file manager for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
